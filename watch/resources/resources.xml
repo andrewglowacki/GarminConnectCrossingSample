@@ -1,0 +1,8 @@
+<resources>
+    <strings>
+        <string id="AppName">Crossing</string>
+    </strings>
+    <drawables>
+        <bitmap id="LauncherIcon" filename="drawables/launcher_icon.svg"/>
+    </drawables>
+</resources>

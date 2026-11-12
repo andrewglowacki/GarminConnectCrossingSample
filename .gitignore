@@ -1,0 +1,5 @@
+watch/bin/
+android/build/
+android/app/build/
+android/.gradle/
+android/local.properties
